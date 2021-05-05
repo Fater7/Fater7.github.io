@@ -9,7 +9,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: jekyll-theme-persephone
+remote_theme: erlzhang/jekyll-theme-persephone
 plugins:
   - jekyll-feed
 
