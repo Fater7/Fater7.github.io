@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 ## !USE TEXT THEME
-# theme: jekyll-text-theme # Gem-based Jekyll Themes
+theme: jekyll-text-theme # Gem-based Jekyll Themes
 remote_theme: kitian616/jekyll-TeXt-theme # Jekyll Remote Theme, see https://github.com/benbalter/jekyll-remote-theme for more information.
 #
 # ,--------.      ,--.   ,--. ,--.
@@ -20,9 +20,8 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Your Site Title
+title   : 正经人谁写日记
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
 
 
 ## => Language and Timezone
@@ -35,7 +34,7 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : Your Name
+  name      : Fater7
   url       :
   avatar    : # path or url of avatar image (square)
   bio       : I am an amazing person.
