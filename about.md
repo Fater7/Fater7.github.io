@@ -2,24 +2,15 @@
 layout: article
 titles:
   en      : &EN       About
-  en-GB   : *EN
-  en-US   : *EN
-  en-CA   : *EN
-  en-AU   : *EN
-  zh-Hans : &ZH_HANS  关于
-  zh      : *ZH_HANS
-  zh-CN   : *ZH_HANS
-  zh-SG   : *ZH_HANS
-  zh-Hant : &ZH_HANT  關於
-  zh-TW   : *ZH_HANT
-  zh-HK   : *ZH_HANT
-  ko      : &KO       소개
-  ko-KR   : *KO
+  zh      : &ZH_HANS  关于
+
 key: page-about
 ---
 
-Just say something about yourself. :+1:
+个人博客网站这个东西，一直没有什么太大的欲望去做。一是因为上学的时候对前后端兴趣不大，二是因为对于“技术文章”，大部分知识在网络上已经有大量的讲解，我对着一篇或多篇已有的文章学习一个知识，再写一篇差不多的文章发出来，就显得非常无聊。上学和工作初期，学的都是基础的知识，做一些总结笔记是必要的，但这些笔记有一个固定的地方保存就可以，倒不用专门搞个博客发出来。
+19年7月开始实习，一直到20年年末水硕毕业正式入职后，基础知识有了一定的积累，慢慢的就变得想有一个个人博客，用来分享一些自己的思考。这些思考并不局限于技术，甚至可能大部分都不会是技术的范畴。网上翻了翻，Github Pages算是比较方便的，模版不少，还不用备案。虽说会被墙，但对于我预期内的读者来说应该问题不大。
+21年5月末做了初步的搭建，结果六月忙起来就把这个事忘了，一忘还忘了大半年，今天偶尔发现电脑里的这个工程才想起来。也没有再拖，直接完善了下，这几行字就算作博客建立的纪念吧。
 
-{% highlight javascript %}
-(() => console.log('hello, world!'))();
-{% endhighlight %}
+2022年1月27日 03:17
+农历腊月廿五
+深圳 海湾花园
