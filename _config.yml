@@ -1,10 +1,10 @@
 # 配置文件
 
 # 主题
-theme: jekyll-text-theme # Gem-based Jekyll Themes
+theme: jekyll-text-theme
 
 # 使用一个Github远端主题
-# remote_theme: kitian616/jekyll-TeXt-theme 
+remote_theme: kitian616/jekyll-TeXt-theme 
 
 ## ----------------------------------------------
 ## TeXt Theme Config
